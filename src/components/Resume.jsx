@@ -68,19 +68,19 @@ function Resume() {
 
             {/* Download Resume */}
             <a
-              href="/resume.pdf"
-              download="Santhosh_Prabhu_Resume.pdf"
-              className="px-6 py-3 rounded-lg bg-black text-white font-semibold hover:bg-gray-800 transition"
+                href="/Santhosh_Prabhu_Resume.pdf"
+                download="Santhosh_Prabhu_Resume.pdf"
+                className="px-6 py-3 rounded-lg bg-black text-white font-semibold hover:bg-gray-800 transition"
             >
               Download Resume
             </a>
 
             {/* View Resume */}
             <a
-              href="/resume.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="px-6 py-3 rounded-lg border border-black font-semibold hover:bg-black hover:text-white transition"
+             href="/Santhosh_Prabhu_Resume.pdf"
+             target="_blank"
+             rel="noopener noreferrer"
+             className="px-6 py-3 rounded-lg border border-black font-semibold hover:bg-black hover:text-white transition"
             >
               View Resume
             </a>
