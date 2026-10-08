@@ -11,13 +11,13 @@ function Navbar() {
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
 
         {/* Logo / Name */}
-        <a
-          href="#home"
-          className="text-2xl font-bold hover:text-blue-400 transition"
-          onClick={() => setMenuOpen(false)}
-        >
-        ( DA & WD )
-        </a>
+       <a
+  href="#home"
+  className="text-2xl font-bold hover:text-blue-400 transition"
+  onClick={() => setMenuOpen(false)}
+>
+  DA
+</a>
 
         {/* Desktop Navigation */}
         <div className="hidden md:flex items-center gap-8">
